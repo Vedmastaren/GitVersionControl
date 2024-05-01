@@ -1,0 +1,32 @@
+Group Exercise 1
+      Basic Git Collaboration
+
+
+Objective:
+To gain practical experience in using basic Git commands and workflows by collaboratively working on a simple project.
+Resources Needed:
+    • Computers with Git installed.
+    • Internet connection for accessing a shared remote repository (e.g., GitHub).
+
+Instructions:
+Step 1: Group Setup
+    • 3-4 students per group
+    • One member of your group creates a new repository on GitHub and adds others as collaborators.
+Step 2: Clone and Initialize
+    • Your group clones the repository to their local machines using git clone.
+    • Initialize the project by adding a simple README.md file. Commit the file to the master branch.
+Step 3: Simple Branching and Changes 
+    • Each member of your group creates their own branch using git checkout -b [branch-name].
+    • Each member of your group makes a simple addition to the README.md, such as adding their name and a brief description of their role.
+Step 4: Commit and Push
+    • Your group members commit their changes to their branches with git add and git commit.
+    • Push your branches to the remote repository using git push origin [branch-name].
+Step 5: Pull Requests and Merging
+    • Each member of your group creates a pull request on GitHub to merge their branch into the master.
+    • Your group reviews and merges each pull request, discussing any changes briefly.
+Step 6: Final Pull and Review
+    • Everyone pulls the final version of the README.md from the master branch to their local machine using git pull.
+    • Quick group discussion on the workflow, what you learned about Git, and how you can apply these practices to future projects.		
+Hand-in:
+    • A README.md file that includes contributions from all members.
+    • A brief discussion or write-up on the process and learnings.
